@@ -1,12 +1,12 @@
 # Comparison of manual and automated coverage path planning for mechanized forest regeneration
 
-# Indata
+## Indata
 - Digital Elevation Model: [Lantmäteriet GSD-Höjddata grid 2+](https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/) ©
 - Depth-to-Water map: [Swedish Forest Agency](https://www.skogsstyrelsen.se/e-tjanster-och-kartor/karttjanster/geodatatjanster/rest/)
-- PlantMax track: See folder [Input/Boundaries](Input/Boundaries/)
-- Site boudaries: See folder [Indata/PlantMax](Input/PlantMax/)
+- Site boudaries: See folder [Input/Boundaries](Input/Boundaries/)
+- PlantMax track: See folder [Indata/PlantMax](Input/PlantMax/)
 
-# Results
+## Results
 - TerraTrail: See folder [Results/TerraTrail](Results/TerraTrail/)
 - Pathfinder: See folder [Results/Pathfinder](Results/Pathfinder/)
 
