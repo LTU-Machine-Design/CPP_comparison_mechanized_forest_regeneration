@@ -7,8 +7,8 @@
 - Site boudaries: See folder Indata
 
 # Results
-- TerraTrail: See folder Results
-- Pathfinder: See folder Results
+- TerraTrail: See folder [Results](Results/)
+- Pathfinder: See folder [Results](Results/)
 
 All .shp files are exported with <strong>QGIS 3.28.1</strong> in Coordinate Reference System EPSG:3006 <strong>SWEREF99 TM</strong>
 
